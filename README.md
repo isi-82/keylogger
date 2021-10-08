@@ -1,2 +1,2 @@
 # Python Keylogger
-Keylogger for Discord webhook (i use it for my headless Raspberry Pi)
+Keylogger for Discord webhook (I use it for my headless Raspberry Pi)
